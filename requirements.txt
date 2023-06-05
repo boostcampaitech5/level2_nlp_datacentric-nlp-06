@@ -1,0 +1,16 @@
+transformers
+sentencepiece
+numpy
+pandas
+evaluate
+accelerate
+scikit-learn
+ipywidgets
+openai
+datasets
+jsonschema<5.0.0,>=4.10.0
+tomli<3.0.0,>=1.1.0
+webencodings
+platformdirs<3.0.0,>=2.5.2
+urllib3<2.0.0,>=1.26.0
+bs4

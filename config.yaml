@@ -1,0 +1,8 @@
+#실행시키고자 하는 전처리 함수들 입력.
+# 증강 방법은 하나씩 적용하는 것을 추천합니다.
+# 선택 가능한 전처리 기법 : remove_g2p_noise, base_ppc, clean_spell, batch_stratify
+# 사용 가능한 증강 방법 : gptmodel_aug, t5model_aug
+preprocessing: 
+  - remove_g2p_noise
+  - base_ppc
+  - batch_stratify
