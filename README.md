@@ -5,10 +5,11 @@ KLUE-Topic Classification benchmark는 뉴스의 헤드라인을 통해 그 뉴�
 Macro F1 score
 
 # 2. 프로젝트 팀 구성 및 역할
+
 ## 2.1. 팀 구성
-|김민호|김성은|김지현|서가은|홍영훈|
-|---|---|---|---|---|
-|[Github](https://github.com/GrapeDiget)|[Github](https://github.com/seongeun-k)|[Github](https://github.com/jihyeeon)|[Github](https://github.com/gaeun0112)|[Github](https://github.com/MostlyFor)|
+|<img src='https://avatars.githubusercontent.com/u/74442786?v=4' height=100 width=100px></img>|<img src='https://avatars.githubusercontent.com/u/99644139?v=4' height=100 width=100px></img>|<img src='https://avatars.githubusercontent.com/u/50359820?v=4' height=100 width=100px></img>|<img src='https://avatars.githubusercontent.com/u/85860941?v=4' height=100 width=100px></img>|<img src='https://avatars.githubusercontent.com/u/106165619?v=4' height=100 width=100px></img>|
+|:---:|:---:|:---:|:---:|:---:|
+| [김민호](https://github.com/GrapeDiget) | [김성은](https://github.com/seongeun-k) | [김지현](https://github.com/jihyeeon) | [서가은](https://github.com/gaeun0112) | [홍영훈](https://github.com/MostlyFor) |
 
 ## 2.2. 역할
 - 김민호 : 프로젝트 리팩토링, 외부 데이터 사용 증강, 경계값 제거
