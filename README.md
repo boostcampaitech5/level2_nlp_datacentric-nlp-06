@@ -63,3 +63,8 @@ Macro F1 score
   - 데이터 불균형을 해결하기 위하여 개수가 적은 레이블에 대한 데이터를 임의로 생성하는 오버샘플링 기법 활용.
 - Key terms 활용
   - Label 별 Key terms 를 활용하여 다양한 방식으로 input text 에 추가, 이를 통해 Label 에 대한 추가 정보를 모델에 제공하고자 함. (전처리 / 증강)
+ 
+
+# 👀 Wrap-up Report
+
+[https://docs.google.com/document/d/1_4pcArTK5WK2_WRp1rajAANZaMWHBLabE7MJ8AnPUqU/edit?usp=sharing]
